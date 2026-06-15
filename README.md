@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Currently i am working in the Avench System which is Embedded bassed and Now i am learning the AI/ML engineering for transitioning Into the AI/ML Engineer.
+Currently i am working in  the Avench System which is Embedded bassed and Now i am learning the AI/ML engineering for transitioning Into the AI/ML Engineer.
 
 
 ## 🌐 Socials:
