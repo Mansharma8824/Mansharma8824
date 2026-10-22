@@ -1,6 +1,12 @@
 ## Hi there 👋
 # 💫 About Me:
-Currently i am working in  the Avench System which is Embedded bassed and Now i am learning the AI/ML engineering for transitioning Into the AI/ML Engineer.
+Jr. Software Engineer with 2 years of experience building LVGL-based graphical UIs for Embedded Linux
+devices in C, including responsive layouts for 3-inch and 7-inch screens, multilingual UI and real-time data display
+over CAN. Also built Flask web applications with HTML, CSS and JavaScript front ends and REST endpoints.
+Experienced in CAN communication, application debugging, issue analysis, feature development, and performance
+optimization. Skilled in developing reliable and maintainable embedded software following MISRA C standards, Git
+workflows, and experienced in using LLM tools and APIs. Seeking to build clean, efficient UIs for embedded devices
+and companion web dashboards.
 
 
 ## 🌐 Socials:
