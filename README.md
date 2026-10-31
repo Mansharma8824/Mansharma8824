@@ -17,8 +17,7 @@ and companion web dashboards.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Mansharma8824&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Mansharma8824&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mansharma8824&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansharma8824&layout=compact&theme=dark&langs_count=10)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mansharma8824&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 ---
 
