@@ -6,7 +6,7 @@ over CAN. Also built Flask web applications with HTML, CSS and JavaScript front 
 Experienced in CAN communication, application debugging, issue analysis, feature development, and performance
 optimization. Skilled in developing reliable and maintainable embedded software following MISRA C standards, Git
 workflows, and experienced in using LLM tools and APIs. Seeking to build clean, efficient UIs for embedded devices
-and companion web dashboards.
+and companion web dashboards
 
 
 ## 🌐 Socials:
